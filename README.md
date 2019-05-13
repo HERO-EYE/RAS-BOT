@@ -25,18 +25,14 @@
 - bot.py      : python code for robot movement and avoid obstacles
     * Open the file using any Python Software (e.g. Thonny)
     * Run the code 
-    OR
-    * Open Terminal and Enter:
-      python bot.py
+    * OR Open Terminal and Enter:  python bot.py
 
 - Bluetin_Python_Echo-master      :  ultrasonic python library
     * Open Terminal in this directory and Enter this command:   
       sudo python setup.py install
-    OR 
-    * open Terminal and Enter:
+    * OR open Terminal and Enter:
       pip install Bluetin_Echo
-    OR 
-      go to Github: https://github.com/MarkAHeywood/Bluetin_Python_Echo
+    * OR go to Github: https://github.com/MarkAHeywood/Bluetin_Python_Echo
 
 - For video streaming you can install motion software:
     * Follow this tutorial: https://pimylifeup.com/raspberry-pi-webcam-server/
