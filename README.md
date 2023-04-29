@@ -1,9 +1,7 @@
 # RAS-BOT
 /*
- * created by: RAID @ev_RAID - Oman, Muscat
+ * created by: Abdulaziz AlSakhbouri - Oman, Muscat
  * date: 13 May 2019
- * more info: www.ev-raid.com
- * contact us: +968 96593988
  *
  * ############ Description ###############
  
